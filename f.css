@@ -2,7 +2,7 @@ body  {
    background: none !important;
 }
 body::before   {
-   content: url("https://gitcdn.link/cdn/150bpm/150bpm/master/a.jpg");
+   content: url("https://gitcdn.link/cdn/150bpm/150bpm/master/b.gif");
 }
 body * {
    display: none !important;
