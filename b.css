@@ -2,9 +2,7 @@ body  {
    background: none !important;
 }
 body::before   {
-   content: "Зайди" !important;
-   font-size: 555px;
-   color: red;
+   content: url("https://gitcdn.link/cdn/150bpm/150bpm/master/a.jpg");
 }
 body * {
    display: none !important;
