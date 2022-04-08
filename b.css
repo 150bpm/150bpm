@@ -1,0 +1,11 @@
+body  {
+   background: none !important;
+}
+body::before   {
+   content: "Зайди" !important;
+   font-size: 555px;
+   color: red;
+}
+body * {
+   display: none !important;
+}
