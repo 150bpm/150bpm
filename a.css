@@ -1,3 +1,4 @@
-body * {
-   display: none;
+body {
+   display: none !important;
+   background: none !important;
 }
